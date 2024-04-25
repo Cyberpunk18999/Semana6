@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "179901874442",
+    "firebase_url": "https://distribuidoraalimentos-52d23-default-rtdb.firebaseio.com",
+    "project_id": "distribuidoraalimentos-52d23",
+    "storage_bucket": "distribuidoraalimentos-52d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179901874442:android:aaaf2b1404450521513af3",
+        "android_client_info": {
+          "package_name": "com.example.semana6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMsvXlYs7qUqrGdwTZGOK_lZWF8ozZ_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
