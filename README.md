@@ -13,4 +13,4 @@ En esta ocasión, debido a la organización que tiene el proyecto, este va a con
 -DespachoActivity: Este Activity es básicamente una calculadora que calcula el costo de despacho dependiendo del precio de compra, y de la ubicación del usuario.
 
 ## Historias de usuario (Suposiciones)
-
+A continuacion se mostraran 5 historias
